@@ -32,3 +32,41 @@ engenharia-prompts-contexto/
 │ └── rag_basico.py → Exemplo prático de RAG com arquivos locais
 └── 📊 avaliacao/
 └── metricas.md → Critérios para medir qualidade: precisão, consistência, uso de tokens
+
+
+---
+
+## 🛠️ Tecnologias e Conceitos Aplicados
+- **Engenharia de Prompts**: Papel, instruções claras, formato de saída
+- **Engenharia de Contexto**: Limites, organização e filtragem de informações
+- **Técnicas**: Zero-shot, Few-shot, Chain-of-Thought, ReAct
+- **RAG**: Busca de dados relevantes para enriquecer a resposta
+- **Ferramentas**: Python, APIs de modelos de linguagem, manipulação de arquivos
+- **Boas práticas**: Redução de alucinações, controle de custo e tokens
+
+---
+
+## 📌 Certificações e Estudos Relacionados
+- 🎓 **ChatGPT Prompt Engineering for Developers** — DeepLearning.AI + OpenAI
+- 🎓 **Generative AI Learning Path** — Google Cloud
+- 🎓 **Introduction to Prompt Engineering** — Microsoft Learn
+- 🎓 **Foundations of Prompt Engineering** — AWS Training
+
+---
+
+## 🚀 Como Usar
+1. Comece lendo o arquivo **CONCEITOS.md** para entender os fundamentos
+2. Siga os laboratórios na ordem do `lab-01` até o `lab-06`
+3. Use os modelos da pasta `templates` para criar seus próprios prompts
+4. Teste os exemplos em Python para ver a aplicação prática
+
+---
+
+## 📝 Sobre o Projeto
+Material desenvolvido para estudo e aplicação prática, com foco em construir conhecimento que possa ser usado no dia a dia de desenvolvimento, análise de dados e arquitetura de soluções com IA.
+
+---
+
+🔗 **Contato**:
+- GitHub: https://github.com/RodrigoMGMorais
+- LinkedIn: [Seu perfil aqui]
