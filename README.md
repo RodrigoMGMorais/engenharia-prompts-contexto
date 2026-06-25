@@ -69,4 +69,4 @@ Material desenvolvido para estudo e aplicação prática, com foco em construir 
 
 🔗 **Contato**:
 - GitHub: https://github.com/RodrigoMGMorais
-- LinkedIn: [Seu perfil aqui]
+- LinkedIn: linkedin.com/in/rodrigomgmorais 
